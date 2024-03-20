@@ -25,12 +25,12 @@ const projects = [
     vercelLink: "https://akademnashir-eight.vercel.app/",
   },
   {
-    title: "3.2-figma",
+    title:"Parfume",
     githubLink: "https://github.com/shdoston/2-topshiriq",
     vercelLink: "https://2-topshiriq.vercel.app/",
   },
   {
-    title: "3.3-figma",
+    title: "Remote",
     githubLink: "https://github.com/shdoston/3-topshiriq",
     vercelLink: "https://3-topshiriq.vercel.app/",
   }, 
