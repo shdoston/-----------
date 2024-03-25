@@ -34,6 +34,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/3-topshiriq",
     vercelLink: "https://remoto-phi.vercel.app/",
   }, 
+  {
+    title: "okean",
+    githubLink: "https://github.com/shdoston/okeanlar",
+    vercelLink: "https://okeanlar.vercel.app/",
+  }, 
 ];
 
 const template = document.querySelector("template");
