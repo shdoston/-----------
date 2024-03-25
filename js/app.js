@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Remote",
     githubLink: "https://github.com/shdoston/3-topshiriq",
-    vercelLink: "https://3-topshiriq.vercel.app/",
+    vercelLink: "https://remoto-phi.vercel.app/",
   }, 
 ];
 
