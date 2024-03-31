@@ -38,7 +38,12 @@ const projects = [
     title: "okean",
     githubLink: "https://github.com/shdoston/okeanlar",
     vercelLink: "https://okeanlar.vercel.app/",
-  }, 
+  },
+  {
+    title: "tip-clculator",
+    githubLink: "https://github.com/shdoston/tip-calculator-app",
+    vercelLink: "https://tip-calculator-app-gules-two.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
