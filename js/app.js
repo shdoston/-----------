@@ -44,6 +44,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/tip-calculator-app",
     vercelLink: "https://tip-calculator-app-gules-two.vercel.app/",
   },
+  {
+    title: "Createx-Marathon",
+    githubLink: "https://github.com/shdoston/Createx-Marathon",
+    vercelLink: "https://createx-marathon-jsmn.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
