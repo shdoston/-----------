@@ -45,14 +45,14 @@ const projects = [
     vercelLink: "https://tip-calculator-app-gules-two.vercel.app/",
   },
   {
-    title: "Createx-Marathon",
-    githubLink: "https://github.com/shdoston/Createx-Marathon",
-    vercelLink: "https://createx-marathon-jsmn.vercel.app/",
-  },
-  {
     title: "Castavay",
     githubLink: "https://github.com/shdoston/castavay",
     vercelLink: "https://castavay.vercel.app/",
+  },
+  {
+    title: "Createx-Marathon",
+    githubLink: "https://github.com/shdoston/Createx-Marathon",
+    vercelLink: "https://createx-marathon.vercel.app/",
   },
 ];
 
