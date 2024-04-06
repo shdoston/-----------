@@ -52,7 +52,7 @@ const projects = [
   {
     title: "Createx-Marathon",
     githubLink: "https://github.com/shdoston/Createx-Marathon",
-    vercelLink: "https://createx-marathon.vercel.app/",
+    vercelLink: "https://createx-marathon-jsmn.vercel.app/index.html",
   },
 ];
 
