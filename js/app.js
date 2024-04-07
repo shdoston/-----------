@@ -54,6 +54,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/Createx-Marathon",
     vercelLink: "https://createx-marathon-jsmn.vercel.app/index.html",
   },
+  {
+    title: "myteam",
+    githubLink: "https://github.com/shdoston/myteam",
+    vercelLink: "https://myteam-eight.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
