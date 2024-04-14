@@ -59,6 +59,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/myteam",
     vercelLink: "https://myteam-eight.vercel.app/",
   },
+  {
+    title: "3-imtihon",
+    githubLink: "https://github.com/shdoston/myteam",
+    vercelLink: "https://myteam-eight.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
