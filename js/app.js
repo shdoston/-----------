@@ -64,6 +64,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/myteam",
     vercelLink: "https://myteam-eight.vercel.app/",
   },
+  {
+    title: "amalyot js",
+    githubLink: "https://github.com/shdoston/myteam",
+    vercelLink: "https://js-drab-nine.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
