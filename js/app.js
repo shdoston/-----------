@@ -74,6 +74,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/Crowfound",
     vercelLink: "https://crowfound-phi.vercel.app/",
   },
+  {
+    title: "4-oy js",
+    githubLink: "https://github.com/shdoston/jsfor",
+    vercelLink: "https://jsforifend.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
