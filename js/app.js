@@ -76,8 +76,8 @@ const projects = [
   },
   {
     title: "4-oy js",
-    githubLink: "https://github.com/shdoston/jsfor",
-    vercelLink: "https://jsforifend.vercel.app/",
+    githubLink: "https://github.com/shdoston/htmlcssjs",
+    vercelLink: "https://htmlcssjs-phi.vercel.app/",
   },
 ];
 
