@@ -79,6 +79,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/htmlcssjs",
     vercelLink: "https://htmlcssjs-phi.vercel.app/",
   },
+  {
+    title: "4-oy for",
+    githubLink: "https://github.com/shdoston/4-dars-for",
+    vercelLink: "https://4-dars-for.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
