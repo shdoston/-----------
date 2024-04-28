@@ -84,6 +84,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/4-dars-for",
     vercelLink: "https://4-dars-for.vercel.app/",
   },
+  {
+    title: "4-oy 6-dars",
+    githubLink: "https://github.com/shdoston/single-page-design",
+    vercelLink: "https://single-page-design-delta.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
