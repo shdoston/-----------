@@ -80,9 +80,9 @@ const projects = [
     vercelLink: "https://htmlcssjs-phi.vercel.app/",
   },
   {
-    title: "4-oy for",
-    githubLink: "https://github.com/shdoston/4-dars-for",
-    vercelLink: "https://4-dars-for.vercel.app/",
+    title: "4-oy 5-dars",
+    githubLink: "https://github.com/shdoston/5-dars",
+    vercelLink: "https://5-dars-chi.vercel.app/",
   },
   {
     title: "4-oy 6-dars",
