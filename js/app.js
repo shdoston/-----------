@@ -85,9 +85,9 @@ const projects = [
     vercelLink: "https://5-dars-chi.vercel.app/",
   },
   {
-    title: "4-oy 6-dars",
-    githubLink: "https://github.com/shdoston/single-page-design",
-    vercelLink: "https://single-page-design-delta.vercel.app/",
+    title: "4-oy 7-dars",
+    githubLink: "https://github.com/shdoston/masive",
+    // vercelLink: "https://single-page-design-delta.vercel.app/",
   },
 ];
 
