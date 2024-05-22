@@ -4,94 +4,94 @@ const projects = [
   //   githubLink: "https://github.com/Nazarovfarhod/akademnashir",
   //   vercelLink: "akademnashir-weld.vercel.app",
   // },
+  // {
+  //   title: "Ansormed",
+  //   githubLink: "https://github.com/shdoston/Ansormed",
+  //   vercelLink: "https://ansormed-gamma.vercel.app/",
+  // },
+  // {
+  //   title: "My Cart",
+  //   githubLink: "https://github.com/shdoston/card",
+  //   vercelLink: "https://i-am-abaout-info.vercel.app/",
+  // },
+  // {
+  //   title: "uzbekiston",
+  //   githubLink: "https://github.com/shdoston/uzb-viloyatlar-xaqida",
+  //   vercelLink: "",
+  // },
+  // {
+  //   title: "akademnashir",
+  //   githubLink: "https://github.com/shdoston/Akademnashir.",
+  //   vercelLink: "https://akademnashir-eight.vercel.app/",
+  // },
+  // {
+  //   title:"Parfume",
+  //   githubLink: "https://github.com/shdoston/2-topshiriq",
+  //   vercelLink: "https://2-topshiriq.vercel.app/",
+  // },
+  // {
+  //   title: "Remote",
+  //   githubLink: "https://github.com/shdoston/3-topshiriq",
+  //   vercelLink: "https://remoto-phi.vercel.app/",
+  // }, 
+  // {
+  //   title: "okean",
+  //   githubLink: "https://github.com/shdoston/okeanlar",
+  //   vercelLink: "https://okeanlar.vercel.app/",
+  // },
+  // {
+  //   title: "tip-clculator",
+  //   githubLink: "https://github.com/shdoston/tip-calculator-app",
+  //   vercelLink: "https://tip-calculator-app-gules-two.vercel.app/",
+  // },
+  // {
+  //   title: "Castavay",
+  //   githubLink: "https://github.com/shdoston/castavay",
+  //   vercelLink: "https://castavay.vercel.app/",
+  // },
+  // {
+  //   title: "Createx-Marathon",
+  //   githubLink: "https://github.com/shdoston/Createx-Marathon",
+  //   vercelLink: "https://createx-marathon-jsmn.vercel.app/servis/contact.html",
+  // },
+  // {
+  //   title: "myteam",
+  //   githubLink: "https://github.com/shdoston/myteam",
+  //   vercelLink: "https://myteam-eight.vercel.app/",
+  // },
+  // {
+  //   title: "3-imtihon",
+  //   githubLink: "https://github.com/shdoston/myteam",
+  //   vercelLink: "https://myteam-eight.vercel.app/",
+  // },
+  // {
+  //   title: "amalyot js",
+  //   githubLink: "https://github.com/shdoston/myteam",
+  //   vercelLink: "https://js-drab-nine.vercel.app/",
+  // },
+  // {
+  //   title: "crowfound",
+  //   githubLink: "https://github.com/shdoston/Crowfound",
+  //   vercelLink: "https://crowfound-phi.vercel.app/",
+  // },
+  // {
+  //   title: "4-oy js",
+  //   githubLink: "https://github.com/shdoston/htmlcssjs",
+  //   vercelLink: "https://htmlcssjs-phi.vercel.app/",
+  // },
+  // {
+  //   title: "4-oy 5-dars",
+  //   githubLink: "https://github.com/shdoston/5-dars",
+  //   vercelLink: "https://5-dars-chi.vercel.app/",
+  // },
+  // {
+  //   title: "4-oy 9-dars",
+  //   githubLink: "https://github.com/shdoston/forEach",
+  //   // vercelLink: "https://single-page-design-delta.vercel.app/",
+  // },
   {
-    title: "Ansormed",
-    githubLink: "https://github.com/shdoston/Ansormed",
-    vercelLink: "https://ansormed-gamma.vercel.app/",
-  },
-  {
-    title: "My Cart",
-    githubLink: "https://github.com/shdoston/card",
-    vercelLink: "https://i-am-abaout-info.vercel.app/",
-  },
-  {
-    title: "uzbekiston",
-    githubLink: "https://github.com/shdoston/uzb-viloyatlar-xaqida",
-    vercelLink: "",
-  },
-  {
-    title: "akademnashir",
-    githubLink: "https://github.com/shdoston/Akademnashir.",
-    vercelLink: "https://akademnashir-eight.vercel.app/",
-  },
-  {
-    title:"Parfume",
-    githubLink: "https://github.com/shdoston/2-topshiriq",
-    vercelLink: "https://2-topshiriq.vercel.app/",
-  },
-  {
-    title: "Remote",
-    githubLink: "https://github.com/shdoston/3-topshiriq",
-    vercelLink: "https://remoto-phi.vercel.app/",
-  }, 
-  {
-    title: "okean",
-    githubLink: "https://github.com/shdoston/okeanlar",
-    vercelLink: "https://okeanlar.vercel.app/",
-  },
-  {
-    title: "tip-clculator",
-    githubLink: "https://github.com/shdoston/tip-calculator-app",
-    vercelLink: "https://tip-calculator-app-gules-two.vercel.app/",
-  },
-  {
-    title: "Castavay",
-    githubLink: "https://github.com/shdoston/castavay",
-    vercelLink: "https://castavay.vercel.app/",
-  },
-  {
-    title: "Createx-Marathon",
-    githubLink: "https://github.com/shdoston/Createx-Marathon",
-    vercelLink: "https://createx-marathon-jsmn.vercel.app/servis/contact.html",
-  },
-  {
-    title: "myteam",
-    githubLink: "https://github.com/shdoston/myteam",
-    vercelLink: "https://myteam-eight.vercel.app/",
-  },
-  {
-    title: "3-imtihon",
-    githubLink: "https://github.com/shdoston/myteam",
-    vercelLink: "https://myteam-eight.vercel.app/",
-  },
-  {
-    title: "amalyot js",
-    githubLink: "https://github.com/shdoston/myteam",
-    vercelLink: "https://js-drab-nine.vercel.app/",
-  },
-  {
-    title: "crowfound",
-    githubLink: "https://github.com/shdoston/Crowfound",
-    vercelLink: "https://crowfound-phi.vercel.app/",
-  },
-  {
-    title: "4-oy js",
-    githubLink: "https://github.com/shdoston/htmlcssjs",
-    vercelLink: "https://htmlcssjs-phi.vercel.app/",
-  },
-  {
-    title: "4-oy 5-dars",
-    githubLink: "https://github.com/shdoston/5-dars",
-    vercelLink: "https://5-dars-chi.vercel.app/",
-  },
-  {
-    title: "4-oy 9-dars",
-    githubLink: "https://github.com/shdoston/forEach",
-    // vercelLink: "https://single-page-design-delta.vercel.app/",
-  },
-  {
-    title: "Modal",
-    githubLink: "https://github.com/shdoston/Modal",
+    title: "5-4-dars",
+    githubLink: "https://github.com/shdoston/-------------3-",
     vercelLink: "https://modal-ivory-one.vercel.app/",
   },
 ];
