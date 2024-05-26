@@ -90,9 +90,9 @@ const projects = [
   //   // vercelLink: "https://single-page-design-delta.vercel.app/",
   // },
   {
-    title: "5-4-dars",
-    githubLink: "https://github.com/shdoston/-------------3-",
-    vercelLink: "https://modal-ivory-one.vercel.app/",
+    title: "baraban",
+    githubLink: "https://github.com/shdoston/baraban-js",
+    vercelLink: "https://baraban-js.vercel.app/",
   },
 ];
 
