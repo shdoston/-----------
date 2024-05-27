@@ -94,6 +94,11 @@ const projects = [
     githubLink: "https://github.com/shdoston/baraban-js",
     vercelLink: "https://baraban-js.vercel.app/",
   },
+  {
+    title: "music play",
+    githubLink: "https://github.com/shdoston/music-play",
+    vercelLink: "https://music-play-iota.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
